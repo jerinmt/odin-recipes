@@ -9,6 +9,11 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
     font-weight: 600;
  }
+ .recipeList {
+    border: 2px dashed blue;
+    display: inline-block;
+    padding: 10px;
+ }
  .homer {
     font-size: large;
     background-color: azure;
@@ -25,4 +30,8 @@
     color: hotpink;
     background-color: navajowhite;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ img {
+    float: right;
+    margin-left: 5px;
  }
